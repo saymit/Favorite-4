@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: aqua
+}
+h1{
+    font-size: 25;
+    color: blue;
+    background-color: yellow;
+}
+img{
+    padding: 30px;
+    height: 500px;
+    width: 350px;
+    background-color: black;
+        
+}
